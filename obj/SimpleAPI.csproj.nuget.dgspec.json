@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sadiqs/Documents/CSharp/SimpleAPI/SimpleAPI.csproj": {}
+    "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/SimpleAPI.csproj": {}
   },
   "projects": {
-    "/Users/sadiqs/Documents/CSharp/SimpleAPI/SimpleAPI.csproj": {
+    "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/SimpleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sadiqs/Documents/CSharp/SimpleAPI/SimpleAPI.csproj",
+        "projectUniqueName": "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/SimpleAPI.csproj",
         "projectName": "SimpleAPI",
-        "projectPath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/SimpleAPI.csproj",
+        "projectPath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/SimpleAPI.csproj",
         "packagesPath": "/Users/sadiqs/.nuget/packages/",
-        "outputPath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/obj/",
+        "outputPath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sadiqs/.nuget/NuGet/NuGet.Config"

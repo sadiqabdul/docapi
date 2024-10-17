@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QiqQwlthScA=",
+  "dgSpecHash": "FAUOA5QlXFE=",
   "success": true,
-  "projectFilePath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/SimpleAPI.csproj",
+  "projectFilePath": "/Users/sadiqs/Documents/CSharp/SimpleAPI/csharpApi/SimpleAPI.csproj",
   "expectedPackageFiles": [
     "/Users/sadiqs/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/sadiqs/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.10/microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",
